@@ -5,3 +5,4 @@ Implementation of a recommender system based on matrix factorization via Funk-SV
 Further improvements:
 - Implementation of bias
 - Change latent factors matrix initialization for both items and users.
+- Change predictions to integers instead of floats.
